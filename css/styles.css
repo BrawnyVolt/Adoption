@@ -1,0 +1,33 @@
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.column {
+  width: 230px;
+  float: left;
+}
+body h5 {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.different {
+  font-family: cursive;
+}
+.colored {
+  color: coral;
+}
+.bkg {
+  background-color: cornsilk;
+}
+
+h1 {
+  font-family: fantasy;
+}
